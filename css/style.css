@@ -1,0 +1,31 @@
+* {
+	margin:10;
+	padding:0px;
+	box-sizing: border-box;
+}
+
+body {
+  background-color: gray;
+}
+
+aside {
+	background-color: lightgray;
+	border: 1px solid beige;
+  border-radius: 5px;
+	box-shadow: 0px 0px 8px 8px rgb(119, 84, 8);
+	margin: 5px;
+}
+
+main {
+  background-color: lightgray;
+  border: 1px solid beige;
+  box-shadow: 0px 0px 8px 8px rgb(119, 84, 8);
+  margin: 5px;
+}
+.apple, .datamyte, .ibm, .bestbuy {
+  font-weight: bold;
+}
+img {
+  width: 200px;
+  border-radius: 30px;
+}
